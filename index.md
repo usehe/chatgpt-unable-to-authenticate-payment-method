@@ -190,18 +190,18 @@ chonggrok.com 适合这些情况：
 ### chonggrok.com 的基本流程
 
 1. 打开 `https://chonggrok.com/chatgpt`；
-   
+> ![chonggrok.com/chatgpt 页面](img/1.jpg)
 2. 选择 ChatGPT Plus 或 ChatGPT Pro；
-3. 使用支付宝或微信完成付款；
+> ![ChatGPT Plus / Pro 套餐选择](img/2.jpg)
+3. 使用支付宝或微信完成付款，得到对应的充值卡密，在https://chonggrok.com/verify 处进行卡密核销；
+> ![卡密核销](img/5.jpg)
 4. 按页面提示提交本次升级所需账号凭证；
-5. 等待升级完成；
+> ![输入自己的chatgpt账号的session](img/6.jpg)
+5. 再确认一遍升级账号是否正确，点击升级；
+> ![chatgpt账号升级](img/7.jpg)
+> ![chatgpt账号升级成功](img/8.jpg)
 6. 回到 ChatGPT 检查 Plus / Pro 状态；
 7. 升级完成后退出并重新登录 ChatGPT，刷新旧 session。
-
-> [截图占位：chonggrok.com/chatgpt 页面]  
-> [截图占位：ChatGPT Plus / Pro 套餐选择]  
-> [截图占位：付款完成后的订单提示]  
-> [截图占位：ChatGPT 订阅状态显示 Plus / Pro]
 
 这里必须讲清楚：  
 chonggrok.com 做的是 ChatGPT 会员订阅代充，不是 OpenAI 官方；不需要用户提供 ChatGPT 密码，但会用到本次升级所需账号凭证。凭证是敏感信息，提交前要确认页面真实可靠，升级完成后建议重新登录刷新 session。
