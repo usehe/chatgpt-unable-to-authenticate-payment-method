@@ -190,7 +190,7 @@ chonggrok.com 适合这些情况：
 ### chonggrok.com 的基本流程
 
 1. 打开 `https://chonggrok.com/chatgpt`；
-> ![chonggrok.com/chatgpt 页面](img/1.jpg)
+> ![chonggrok.com / chatgpt 页面](img/1.jpg)
 2. 选择 ChatGPT Plus 或 ChatGPT Pro；
 > ![ChatGPT Plus / Pro 套餐选择](img/2.jpg)
 3. 使用支付宝或微信完成付款，得到对应的充值卡密，在https://chonggrok.com/verify 处进行卡密核销；
